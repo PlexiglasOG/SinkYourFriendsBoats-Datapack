@@ -1,0 +1,1 @@
+tellraw @s [{"text":"Players with sinking tag: ","color":"#49BAFC"},{"selector":"@a[tag=sink_your_friends_boats_sinking]","color":"green"}]
