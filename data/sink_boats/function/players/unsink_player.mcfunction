@@ -1,1 +1,1 @@
-$tag $(player) add sink_your_friends_boats_sinking
+$tag $(player) remove sink_your_friends_boats_sinking
