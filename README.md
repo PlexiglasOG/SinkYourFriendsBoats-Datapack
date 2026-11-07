@@ -20,7 +20,7 @@ You are interested in these two:
 
 ### Make a player sink/undo sinking
 
-To choose a player, we format him in JSON like this: ``{"player":"PLAYER"}`` where Player may be the UUID, the Player Name
+To choose a player, we format him in JSON like this: ``{"player":"PLAYER"}`` where PLAYER may be the UUID, the Player Name
 or a Selector (@s for yourself).
 
 To sink, we use ``/function sink_boats:players/sink_player {"player":"PLAYER"}``
