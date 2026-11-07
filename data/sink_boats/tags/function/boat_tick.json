@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    "sink_boats:boats/boat",
+    "sink_boats:boats/chest_boats"
+  ]
+}

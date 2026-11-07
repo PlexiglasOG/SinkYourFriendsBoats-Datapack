@@ -1,0 +1,1 @@
+tag @a remove sink_your_friends_boats_sinking

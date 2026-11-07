@@ -1,0 +1,1 @@
+tag @a add sink_your_friends_boats_sinking
